@@ -1,4 +1,4 @@
-yimport random
+import random
 import sys
 import time
 def mengetik(s):
@@ -10,3 +10,5 @@ def mengetik(s):
         time.sleep(random.random() * 0.3)
 
 mengetik('dengan egi anugra like and subrex yaaa
+
+         
